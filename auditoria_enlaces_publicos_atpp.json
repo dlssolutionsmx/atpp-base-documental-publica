@@ -1,0 +1,137 @@
+{
+  "archivo_origen": "/home/ubuntu/MATRIZ_ENLACES.xlsx",
+  "registros_con_url": 703,
+  "urls_unicas": 595,
+  "por_estado": {
+    "accesible": 537,
+    "no_verificable": 25,
+    "requiere_permiso": 64,
+    "respuesta_no_exitosa": 77
+  },
+  "por_host": {
+    "gestion.cte.sep.gob.mx": {
+      "total": 420,
+      "roto": 0,
+      "accesible": 364,
+      "otros": 56
+    },
+    "www.google.com": {
+      "total": 53,
+      "roto": 0,
+      "accesible": 53,
+      "otros": 0
+    },
+    "www.gob.mx": {
+      "total": 2,
+      "roto": 0,
+      "accesible": 2,
+      "otros": 0
+    },
+    "estrategiaenelaula.sep.gob.mx": {
+      "total": 4,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 4
+    },
+    "calendarioescolar.sep.gob.mx": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 1
+    },
+    "www.dof.gob.mx": {
+      "total": 7,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 7
+    },
+    "libros.conaliteg.gob.mx": {
+      "total": 12,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 12
+    },
+    "www.mejoredu.gob.mx": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 1
+    },
+    "mxplus.tv": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 1,
+      "otros": 0
+    },
+    "dgfc.siged.sep.gob.mx": {
+      "total": 3,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 3
+    },
+    "www.youtube.com": {
+      "total": 119,
+      "roto": 0,
+      "accesible": 72,
+      "otros": 47
+    },
+    "youtu.be": {
+      "total": 55,
+      "roto": 0,
+      "accesible": 25,
+      "otros": 30
+    },
+    "educacionbasica.sep.gob.mx": {
+      "total": 14,
+      "roto": 0,
+      "accesible": 14,
+      "otros": 0
+    },
+    "formacioncontinua.sep.gob.mx": {
+      "total": 3,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 3
+    },
+    "aulaintercultural.org": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 1,
+      "otros": 0
+    },
+    "www.crefal.org": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 1
+    },
+    "www.redalyc.org": {
+      "total": 2,
+      "roto": 0,
+      "accesible": 2,
+      "otros": 0
+    },
+    "escuelalibredeviolencia.sep.gob.mx": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 0,
+      "otros": 1
+    },
+    "vidasaludable.gob.mx": {
+      "total": 1,
+      "roto": 0,
+      "accesible": 1,
+      "otros": 0
+    },
+    "www.critic-edu.com": {
+      "total": 2,
+      "roto": 0,
+      "accesible": 2,
+      "otros": 0
+    }
+  },
+  "salidas": {
+    "csv": "/home/ubuntu/auditoria_enlaces_publicos_atpp.csv",
+    "json": "/home/ubuntu/auditoria_enlaces_publicos_atpp.json"
+  }
+}
